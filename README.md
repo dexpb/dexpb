@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
-<p><i><strong>Meu nome é Pablo, estou ingressando no mundo Dev. Estou cursando Análise e Desenvolvimento de Sistemas e acabei me interessei pelo lado Front-End conforme fui me aprofundando no ramo, e estou me empenhando para me tornar um ótimo Front-End Dev com Angular como framework (até o momento).  
+<p><i><strong>Meu nome é Pablo, estou ingressando no mundo Dev. Estou cursando Análise e Desenvolvimento de Sistemas e acabei me interessei pelo lado Front-End conforme fui me aprofundando no ramo, e estou me empenhando para me tornar um ótimo Front-End Dev com Nextjs como framework (até o momento).  
 <br>
 Estou em busca de estágios, e enquanto não consigo um, vou colocando meus projetos no github ;)
 </p>
