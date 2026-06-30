@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
-<p><i><strong>Meu nome é Pablo, estou ingressando no mundo Dev. Estou cursando Análise e Desenvolvimento de Sistemas e acabei me interessando pelo Front-End conforme fui me aprofundando no ramo, e estou me empenhando para me tornar um ótimo Front-End Dev com Nextjs como framework (até o momento).  
+<p><i><strong>Meu nome é Pablo. Sou formado em Análise e Desenvolvimento de Sistemas e acabei me interessando pelo Front-End conforme fui me aprofundando no ramo, hoje sou Desenvolvedor Front-end com Nextjs, TypeScript e Tailwind como stack. 
 <br>
 </p>
 </div>
